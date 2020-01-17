@@ -3,7 +3,11 @@ body {
     width: 70%;
     background-color: #fdf9df !important;
 }
-
+img {
+    max-width:100%;
+    height:auto;
+    
+}
 .homepage-nav-grid {
     size: 50em;
     position: relative;
