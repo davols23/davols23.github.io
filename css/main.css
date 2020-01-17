@@ -9,12 +9,9 @@ img {
     
 }
 .homepage-nav-grid {
-    size: 50em;
-    position: relative;
-    margin: auto;
-    left: auto;
-    top: auto; }
-       
+    margin-left: auto;
+    margin-right: auto;
+}       
       
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
