@@ -3,6 +3,21 @@ body {
     width: 70%;
     background-color: #fdf9df !important;
 }
+
+
+.homepage-nav-grid {
+
+	grid-template-columns: auto auto auto;
+ 	grid-template-rows: auto auto auto;
+  }
+
+
+ .rotate-text-up {
+ 
+ 	transform: rotate(90deg);
+	}
+	
+	
 img {
     max-width:50%;
     max-height:50%;
