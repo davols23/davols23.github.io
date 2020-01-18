@@ -12,4 +12,6 @@ img {
 	max-height: 50%;
 }
 
-#shop #watch {transform: rotate (270deg)}
+#shop #watch {
+	transform: rotate (270deg)
+}
