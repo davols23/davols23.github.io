@@ -20,10 +20,12 @@ div.nav-btn-rotated {
 	transform: rotate (270deg)
 }
 
-div.nav-btn{
+div.nav-btn a{
 	text-decoration: none;
 	font-size: 20pt;
 }
-div.nav-btn-rotated {
+div.nav-btn-rotated a{
+
 	transform: rotate (270deg)
+	
 	}
