@@ -1,10 +1,13 @@
+:root{
+
+
+}
+
+
 body {
 
     background-color: #fdf9df !important;
 }
-
-
-
 
 img {
 	position: absolute;
@@ -25,7 +28,6 @@ div.nav-btn {
 	font-size: 20pt;
 }
 div.nav-btn-rotated {
-
 	transform: rotate (270deg)
 	
 	}
