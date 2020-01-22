@@ -16,13 +16,14 @@ img {
 	padding: 25vh calc((100vw - 50vh) * 0.5);
 }
 
-.nav-btn-rotated {
+div.nav-btn-rotated {
 	transform: rotate (270deg)
 }
 
-.nav-btn{
+div.nav-btn{
 	text-decoration: none;
 	font-size: 20pt;
-	
 }
-
+div.nav-btn-rotated {
+	transform: rotate (270deg)
+	}
